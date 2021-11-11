@@ -1,0 +1,22 @@
+body {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.ingredients {
+    text-align: left;
+}
+
+.directions {
+    text-align: left;
+}
+
+
+h3 {
+    text-decoration: underline;
+}

@@ -1,0 +1,37 @@
+body {
+    background-color: lightskyblue;
+  
+}
+
+h1 {
+    text-align: center;
+    text-decoration:underline;
+}
+
+.flex-containter {
+    display: flex;
+    flex-direction: row;
+}
+
+.cake {
+    height: 300px;
+    width: 50%;
+    background-color: pink;
+    display: flex;
+    
+}
+
+.cake-pic {
+    height: auto;
+    width: 50%;
+}
+
+.taco {
+    height: 300px;
+    width: 50%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
