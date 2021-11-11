@@ -1,0 +1,18 @@
+body {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.taco {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10%;
+}
+
+.ingredients {
+    text-align: left;
+}
+
+.directions {
+    text-align: left;
+}

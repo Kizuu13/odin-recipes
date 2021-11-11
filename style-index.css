@@ -1,5 +1,5 @@
 body {
-    background-color: lightskyblue;
+    background-color: lightsalmon;
   
 }
 
@@ -16,22 +16,29 @@ h1 {
 .cake {
     height: 300px;
     width: 50%;
-    background-color: pink;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     
 }
 
 .cake-pic {
     height: auto;
-    width: 50%;
+    width: 400px;
 }
 
 .taco {
     height: 300px;
     width: 50%;
-    background-color: black;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
+}
+
+.taco-pic {
+    height: auto;
+    width: 400px;
 }
